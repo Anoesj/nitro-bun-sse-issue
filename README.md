@@ -1,6 +1,6 @@
 # Nuxt + Bun + SSE issue
 ## Issue description
-See: ...
+See: https://github.com/unjs/nitro/issues/2719
 
 ## Steps to reproduce
 - Install using `bun i` with bun version 1.1.27.
